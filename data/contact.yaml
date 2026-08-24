@@ -1,0 +1,17 @@
+---
+title: "CONTACT"
+background_image: "contact.jpg"
+photo: "user-tie.png"
+description: "<b>Location:</b> Belfast, Northern Ireland"
+
+email:
+  address: "pkelly429@gmail.com"
+  link: false
+  icon: "envelope-solid"
+
+social:
+- icon: "linkedin-brands-solid"
+  link: "https://www.linkedin.com/in/paul-kelly-51921a253/"
+- icon: "github-brands-solid"
+  link: "https://github.com/paulkelly"
+---
