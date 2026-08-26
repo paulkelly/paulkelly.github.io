@@ -5,7 +5,7 @@ small_image = "skyrig.png"
 image = "skyrig-title.jpg"
 #startDate = "2025-01-01"
 endDate = "2025-09-01"
-categories = [ "Unity", "Game", "Rocket Flair", "Steam" ]
+categories = [ "Unity", "Game", "Rocket Flair" ]
 tags = [ "Steam", "Automation", "DOTS", "ECS", "Job System" ]
 show_date = false
 +++

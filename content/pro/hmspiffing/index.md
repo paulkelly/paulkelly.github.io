@@ -6,7 +6,7 @@ image = "spiffing-title.jpg"
 #startDate = "2016-01-01"
 endDate = "2016-12-01"
 categories = [ "Unity", "Game", "Billygoat" ]
-tags = [ "Console", "Steam", "Point & Click", "Adventure", "Comedy" ]
+tags = [ "Console", "Steam", "Point and Click", "Adventure", "Comedy" ]
 show_date = false
 +++
 

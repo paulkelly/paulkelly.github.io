@@ -6,7 +6,7 @@ image = "parcel-title.jpg"
 #startDate = "2020-10-01"
 endDate = "2024-10-01"
 categories = [ "Unity", "Game", "Billygoat" ]
-tags = [ "Console", "Steam", "Physics", "Online", "3D Platformer" ]
+tags = [ "Console", "Steam", "Physics", "Online", "3D Platformer", "Job System" ]
 show_date = false
 +++
 
