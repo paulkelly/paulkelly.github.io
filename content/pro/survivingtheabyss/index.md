@@ -5,14 +5,20 @@ small_image = "abyss.png"
 image = "abyss-title.jpg"
 #startDate = "2023-12-01"
 endDate = "2025-01-01"
-categories = [ "Unity", "Game" ]
-tags = [ "City Builder", "Job System" ]
+categories = [ "Unity", "Game", "Rocket Flair" ]
+tags = [ "Steam", "City Builder", "Job System" ]
 show_date = false
 +++
 
 [![Steam](/icons/steam.svg)](https://store.steampowered.com/app/1254320/Surviving_the_Abyss/)<br><br>
 
-***Earth, 1976. You have been tasked with managing a deep-sea science facility working to perfect cloning. Explore the darkness and keep your crew alive in this hardcore survival colony builder. And beware. The darkness hides untold horrors.***<br><br>
+***Earth, 1976. You have been tasked with managing a deep-sea science facility working to perfect cloning. Explore the darkness and keep your crew alive in this hardcore survival colony builder. And beware. The darkness hides untold horrors.***<br>
+
+---
+
+**Developer** : Balance, Design, Additional Content, Optimisation, Bug Fixing<br>
+
+---
 
 I was part of a small team responsible for taking the project from Early Access through to its full release. My work focused primarily on game design, balancing, narrative content, and helping improve the game's overall stability.<br><br>
 
@@ -28,4 +34,6 @@ I also designed and implemented a new final biome and the content needed to brin
 
 Finally, the Early Access version contained several significant bugs and technical issues. As a team, we spent considerable time addressing these problems, improving stability and implementing optimisations to ensure the full release provided a smoother and more reliable experience.<br><br>
 
+---
+<h3>Announcment Trailer</h3>
 {{< youtube njF-9qjGw_4 >}}
