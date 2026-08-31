@@ -16,7 +16,7 @@ show_date = false
 
 ---
 
-**Lead Programmer** : Player Controller and Cycling Physics, Gameplay Systems, Online Multiplayer, Leaderboards, Console Integration, Game Design, Level Design<br>
+**Lead Programmer** : Player Controller and Cycling Physics, Gameplay Systems, Online Multiplayer, Leaderboards, Bandwidth Optimisation, Console Integration, Game Design, Level Design<br>
 
 ---
 
@@ -28,7 +28,7 @@ I was responsible for implementing the game's online features, including multipl
 
 For character synchronisation, I implemented a technique to help hide the effects of network latency without making other players appear jittery. The system maintained a small buffer of position data and adjusted playback speed dynamically: slowing down as the buffer began to run low, then speeding back up when sufficient data was available. This allowed movement to remain smooth while adapting to fluctuations in network conditions.<br><br>
 
-I also built the cross-platform leaderboard infrastructure using AWS, with the database and supporting scripts for accessing and managing the data handled by our team. When players uploaded a delivery time to the leaderboard, they would also upload a ghost; a recording of their route and performance. These ghosts could then appear in other players' worlds, allowing them to encounter other players as they played.<br><br>
+I built the cross-platform leaderboard infrastructure using AWS, with the database and supporting scripts for accessing and managing the data. When players uploaded a delivery time to the leaderboard, they would also upload a ghost; a recording of their route and performance. These ghosts could then appear in other players' worlds, allowing them to encounter other players as they played. As part of this I did some work on bandwith optimisation, with a redis server on AWS for caching the leaderboard rankings daily, as well as a local cache on the client to prevent repeated requests. Requests also had to be delivered with an authentication token for the relevant platform or they would not be processed.<br><br>
 
 I was also heavily involved in level design. I created some of the early gameplay playgrounds used for testing movement and mechanics, which later became part of a finished level, as well as independently whiteboxing an entire level. Navigation was a major part of the game's delivery gameplay, with players needing to learn each environment and find efficient routes between destinations. One of the challenges we encountered was the time it could take for players to become familiar with a new level, and I particularly enjoyed designing memorable landmarks and visual points of interest, "[weenies](https://themouselets.com/what-is-a-disney-weenie)", that players could use to orient themselves and build a mental map of the environment.<br><br>
 

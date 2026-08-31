@@ -8,17 +8,15 @@ services:
 - name: "Game Development"
   icon: "game-controller"
   list: [ "Unity", "DOTS, ECS & Job System", "Optimization ", "Steam, Xbox, PS4, Switch", "Console Certification" ]
-  #text: "From prototype to release"
 - name: "Design"
   icon: "design"
-  #text: "Designing systems, balancing gameplay, and building levels."
   list: [ "Designing Systems", "Balancing Gameplay", "Narrative Design", "Whiteboxing Levels", "Adding 'Juice'", ]
 - name: "Tool Development"
   icon: "toolbox"
-  text: "Experience in developing tools as needed, incliding tools for:"
+  text: "Experience in developing tools as needed, including tools for:"
   list: [ "Localisation", "Dialogue & Story Flow", "UI Binding" ]
 - name: "Online Services"
   icon: "web"
   text: "Matchmaking, gameplay, leaderboards and content delivery"
-  list: [ "Photon", "AWS" ]
+  list: [ "Photon", "AWS, DynamoDB, Redis, S3", "Authentication" ]
 ---
