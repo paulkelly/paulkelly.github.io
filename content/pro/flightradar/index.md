@@ -9,12 +9,14 @@ tags = [ 'AI Assistance',"C#", "TypeScript", "Kotlin", "Docker", "Azure", "CI/CD
 show_date = false
 +++
 
-[![GitHub](/icons/github.svg)](https://github.com/paulkelly/nearby-flights)<br>
-<a href="https://flightradar-web.delightfulforest-82237f6b.northeurope.azurecontainerapps.io" target="_blank" rel="noopener">Live Site</a><br><br>
+[![GitHub](/icons/github.svg)](https://github.com/paulkelly/nearby-flights) | <a href="https://flightradar-web.delightfulforest-82237f6b.northeurope.azurecontainerapps.io" target="_blank" rel="noopener">Live Site</a><br><br>
 
-***"What's that plane outside my window?" <br/> A hosted web app with a companion Android Widget. <br/> Pick a spot on a map, choose a radius, and see every aircraft flying inside that circle: airline, flight, probable route, altitude and speed, updating live.***<br>
----                                                                                                                                                                                          
-**Solo Developed with AI Assistance** : Backend, Frontend, Android, CI/CD, Deployment on Azure<br>
+***"What's that plane outside my window?"*** <br/><br> ***A hosted web app with a companion Android Widget.*** <br/><br> ***Pick a spot on a map, choose a radius, and see every aircraft flying inside that circle: airline, flight, probable route, altitude and speed, updating live.***<br>
+
+---
+
+**Solo Developed with AI Assistance** : Backend, Frontend, Android, CI/CD, Deployment on Azure <br>
+
 ---                                                                                                                                                                                          
 I built Flight Radar as a learning project to learn AI-assisted development and to get to grips with a corporate web stack: an ASP.NET Core backend, a React and TypeScript     
 frontend, Docker, automated testing, and continuous deployment to the cloud. I worked with an AI coding assistant as a pair programmer. I set   the direction, made the design decisions at each step, and reviewed and tested every change. The project grew in small, focused steps from a single API endpoint to a deployed web app and a companion Android app.<br><br>
